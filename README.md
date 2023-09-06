@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello, I am Sai Krishna
+
+I completed my bachelors in Electronics and Communication Engineering👨‍🎓.
+Worked at Tata Consultancy Services for 1 year 3 month in Bangalore, India👨‍💻.
+Currently pursing Master in Applied Computer Science in Northwest Missouri State University, Maryville, Missouri, USA📖.
+Passiante about learning technologies and programming🤖.
+
 <!--
 **saikrishna1419/saikrishna1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
