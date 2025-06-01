@@ -4,7 +4,7 @@ Hello, I am Sai Krishna
 
 - I completed my bachelors in Electronics and Communication Engineering👨‍🎓.<br>
 - Worked at Tata Consultancy Services for 2 years in Bangalore, India👨‍💻.<br>
-- Completed Masters in Applied Computer Science in Northwest Missouri State University, Maryville, Missouri, USA📖.<br>
+- Completed Masters in Applied Computer Science from Northwest Missouri State University, Maryville, Missouri, USA📖.<br>
 - Passiante about learning technologies and programming🤖.
 
 <!--
